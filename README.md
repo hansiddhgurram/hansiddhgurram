@@ -1,6 +1,8 @@
-# 💫 About Me:
-im currently working on machine learning, i am a student at VIT chennai studying CSE 2nd year
+#  About Me:
 
+CSE Student @ VIT Chennai | Machine Learning
+
+I am a second-year Computer Science student (2024–2028) at VIT Chennai, focused on Machine Learning and Deep Learning. Currently, I am learning TensorFlow. I’m passionate about building data-driven solutions and am always open to collaborating on innovative AI research or applications.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansiddh78@gmail.com) 
