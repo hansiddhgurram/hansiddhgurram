@@ -1,26 +1,79 @@
-#  About Me:
+# Hansiddh G
 
-CSE Student @ VIT Chennai | Machine Learning
+### Computer Science Engineering Student | Machine Learning & AI
 
-I am a second-year Computer Science student (2024–2028) at VIT Chennai, focused on Machine Learning and Deep Learning. Currently, I am learning TensorFlow. I’m passionate about building data-driven solutions and am always open to collaborating on innovative AI research or applications.
+Computer Science Engineering student at VIT Chennai with a focus on Machine Learning, Deep Learning, and Generative AI.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansiddh78@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hansiddhgurram&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hansiddhgurram&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hansiddhgurram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hansiddhgurram&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hansiddhgurram&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build AI-driven applications and experiment with machine learning systems, LLMs, RAG pipelines, and AI agents. I am particularly interested in understanding and building AI systems from the model level to production-oriented applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hansiddhgurram&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Areas of Interest
+
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Multi-Agent Systems
+- Natural Language Processing
+- Reinforcement Learning
+- MLOps and AI Infrastructure
+
+---
+
+## Selected Projects
+
+### NyayaFlow
+AI-powered Online Dispute Resolution platform using multi-agent workflows, RAG, legal document retrieval, evidence processing, mediation assistance, and automated settlement drafting.
+
+**Technologies:** Python, FastAPI, LangGraph, LangChain, RAG, ChromaDB, LLMs
+
+### Customer Support AI Agent
+RAG-based customer support system designed to retrieve relevant information from a knowledge base and generate context-aware responses.
+
+**Technologies:** Python, FastAPI, LangChain, LangGraph, FAISS, ChromaDB, LLM APIs
+
+### Autonomous Multimodal Research Intelligence System
+AI research system for research planning, web information retrieval, article summarization, and structured report generation.
+
+**Technologies:** Python, FastAPI, LangChain, Search APIs, LLMs
+
+### NanoLM
+A 100M-parameter language model being developed and trained from scratch to study transformer architectures, tokenization, training, and language modeling.
+
+**Technologies:** Python, PyTorch, CUDA, BPE Tokenization, Transformers
+
+---
+
+## Technical Skills
+
+**Languages:** Python, C++, Java, SQL
+
+**Machine Learning:** Scikit-learn, PyTorch, TensorFlow, NumPy, Pandas
+
+**Generative AI:** LLMs, RAG, LangChain, LangGraph, Prompt Engineering, Vector Databases
+
+**Backend:** FastAPI, REST APIs
+
+**Databases:** SQL, MongoDB, ChromaDB
+
+**DevOps & Infrastructure:** Git, GitHub, Docker, Kubernetes, CI/CD
+
+**Cloud:** AWS
+
+---
+
+## Currently Learning
+
+- Deep Learning with PyTorch
+- Transformer architectures and LLMs
+- LLM training and fine-tuning
+- Reinforcement Learning
+- MLOps and model deployment
+- Cloud infrastructure
+
+---
+
+## GitHub
+
+[GitHub](https://github.com/hansiddhgurram)
