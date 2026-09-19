@@ -18,29 +18,6 @@ I build AI-driven applications and work with machine learning systems, LLMs, RAG
 
 ---
 
-## Projects
-
-### NyayaFlow
-AI-powered Online Dispute Resolution platform using multi-agent workflows, RAG, legal document retrieval, evidence processing, mediation assistance, and automated settlement drafting.
-
-**Technologies:** Python, FastAPI, LangGraph, LangChain, RAG, ChromaDB, LLMs
-
-### Customer Support AI Agent
-RAG-based customer support system for retrieving relevant information from a knowledge base and generating context-aware responses.
-
-**Technologies:** Python, FastAPI, LangChain, LangGraph, FAISS, ChromaDB, LLM APIs
-
-### Autonomous Research Intelligence System
-AI research system for research planning, information retrieval, article summarization, and structured report generation.
-
-**Technologies:** Python, FastAPI, LangChain, Search APIs, LLMs
-
-### NanoLM
-100M-parameter language model being developed and trained from scratch to explore transformer architectures, tokenization, and language-model training.
-
-**Technologies:** Python, PyTorch, CUDA, BPE Tokenization, Transformers
-
----
 
 ## Tech Stack
 
